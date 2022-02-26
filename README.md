@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning make a girl friend
 - 💞️ I’m looking to collaborate on Gravity element
 
-Qiita https://qiita.com/OkitaSystemDesign
+Qiita: https://qiita.com/OkitaSystemDesign
+OkitaSystemDesign: https://osdes.com/
 
 <!---
 OkitaSystemDesign/OkitaSystemDesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
